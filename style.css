@@ -13,11 +13,11 @@ hr {
 }
 .foot {
   position: relative;
-  bottom: 31px;
-  height: 30px;
+  bottom: 21px;
+  height: 20px;
 }
 .buffer {
-  height: 11rem;
+  height: 12rem;
 }
 h1 {
   font-size: 3rem;
